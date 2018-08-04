@@ -18,8 +18,6 @@
 		404E4A4720C22BCF00E21EAA /* WZArcLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404E4A4620C22BCF00E21EAA /* WZArcLayer.swift */; };
 		409AF8A121159E4300C0F013 /* JZPieChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 409AF89C21159E4200C0F013 /* JZPieChart.m */; };
 		409AF8A221159E4300C0F013 /* JZArcLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 409AF89D21159E4200C0F013 /* JZArcLayer.m */; };
-		40D6B48E20D3787200D7D265 /* Simulator Screen Shot - iPhone SE - 2018-06-15 at 10.52.37.png in Resources */ = {isa = PBXBuildFile; fileRef = 40D6B48C20D3787200D7D265 /* Simulator Screen Shot - iPhone SE - 2018-06-15 at 10.52.37.png */; };
-		40D6B48F20D3787200D7D265 /* Simulator Screen Shot - iPhone SE - 2018-06-14 at 17.24.13.png in Resources */ = {isa = PBXBuildFile; fileRef = 40D6B48D20D3787200D7D265 /* Simulator Screen Shot - iPhone SE - 2018-06-14 at 17.24.13.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,8 +59,6 @@
 		409AF89F21159E4200C0F013 /* JZPieChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JZPieChart.h; sourceTree = "<group>"; };
 		409AF8A021159E4200C0F013 /* JZArcLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JZArcLayer.h; sourceTree = "<group>"; };
 		409AF8A62115A04100C0F013 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
-		40D6B48C20D3787200D7D265 /* Simulator Screen Shot - iPhone SE - 2018-06-15 at 10.52.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone SE - 2018-06-15 at 10.52.37.png"; sourceTree = "<group>"; };
-		40D6B48D20D3787200D7D265 /* Simulator Screen Shot - iPhone SE - 2018-06-14 at 17.24.13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone SE - 2018-06-14 at 17.24.13.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,8 +127,6 @@
 				404E4A1D20C15C6200E21EAA /* Assets.xcassets */,
 				404E4A1F20C15C6200E21EAA /* LaunchScreen.storyboard */,
 				404E4A2220C15C6200E21EAA /* Info.plist */,
-				40D6B48D20D3787200D7D265 /* Simulator Screen Shot - iPhone SE - 2018-06-14 at 17.24.13.png */,
-				40D6B48C20D3787200D7D265 /* Simulator Screen Shot - iPhone SE - 2018-06-15 at 10.52.37.png */,
 			);
 			path = WZPieChart;
 			sourceTree = "<group>";
@@ -274,11 +268,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				40D6B48E20D3787200D7D265 /* Simulator Screen Shot - iPhone SE - 2018-06-15 at 10.52.37.png in Resources */,
 				404E4A2120C15C6200E21EAA /* LaunchScreen.storyboard in Resources */,
 				404E4A1E20C15C6200E21EAA /* Assets.xcassets in Resources */,
 				404E4A1C20C15C6200E21EAA /* Main.storyboard in Resources */,
-				40D6B48F20D3787200D7D265 /* Simulator Screen Shot - iPhone SE - 2018-06-14 at 17.24.13.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
