@@ -55,6 +55,8 @@ class ViewController: UIViewController, WZPieChartProtocol, JZPieChartProtocol{
         btn.setTitle("刷新", for: .normal)
         btn.setTitleColor(UIColor.white, for: .normal)
         btn.addTarget(self, action: #selector(update), for: .touchUpInside)
+        
+        self.update()
     }
 
    
